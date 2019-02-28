@@ -1,6 +1,6 @@
 # Simple use of Geoplotlib
 # Python v 3.6
-# 5/15/208
+# 5/15/2018
 
 import geoplotlib
 from geoplotlib.utils import read_csv
